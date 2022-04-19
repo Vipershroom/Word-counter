@@ -27,12 +27,22 @@ html, body {
     }
 }
 
-button {
+.process {
     margin-top: 1.7rem;
-    width: 5vw;
-    height: 4.3vh;
-    background-color: #3498db;
-    color: #fff;
-    border-radius: 10px;
-    border: none;
+
+    button {
+    
+        width: 5vw;
+        height: 4.3vh;
+        background-color: #3498db;
+        color: #fff;
+        border-radius: 10px;
+        border: none;
+    }
+
+    p {
+        margin-top: 1.7rem;
+        font-size: 20px;
+    }
 }
+
